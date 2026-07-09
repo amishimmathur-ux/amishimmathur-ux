@@ -18,55 +18,59 @@ I'm am an undergraduate engineering student with a strong interest in **Artifiti
 
 - 🎓 Currently pursuing: B.tech CSE , Manipal University Jaipur , 2nd Year
 - 🌱 Currently learning: Machine Learning , Python , C , Java , Assembly , C#
-- 📫 Reach me: [Gmail] amishimmathur@gmail.com | [LinkedIn] https://www.linkedin.com/in/amishi-mathur-50ba80330/
 
 ---
 
 ### 🛠️ Skills
 
-**Languages:** Python , C , HTML , CSS , JAVA , C#
-**ML & Data:** scikit-learn, pandas, NumPy, Matplotlib, Seaborn, TensorFlow , PyTorch , Pygame , skl2onnx , Joblib 
-**Tools & Platforms:** Git & GitHub, Jupyter Notebook, VS Code, Google Colab, Excel, Power BI , Unity , intelliJ IDEA 2026.1.1 , Adobe Illustrator
+**Languages:** Python , C , HTML , CSS , JAVA , C# <br>
+**ML & Data:** scikit-learn, pandas, NumPy, Matplotlib, Seaborn, TensorFlow , PyTorch , Pygame , skl2onnx , Joblib <br>
+**Tools & Platforms:** Git & GitHub, Jupyter Notebook, VS Code, Google Colab, Excel, Power BI , Unity , intelliJ IDEA 2026.1.1 , Adobe Illustrator<br>
 
 ---
 
 ### 🎓 Education
 
-**B.tech CSE** — Manipal University Jaipur
-*2025-29*
-**Amity International School** — Schooling (From Nur-12th)
+**B.tech CSE** — Manipal University Jaipur<br>
+*2025-29*<br>
+**Amity International School** — Schooling (From Nur-12th)<br>
 *2011-25*
 
 ---
 
 ### 💼 Experience
 
-**Summer Intern** — STMicroelectronics
+**Summer Intern** — STMicroelectronics<br>
 *May,2026 – July,2026*
-- [One-line achievement or responsibility]
-- [Another relevant point, ideally with a measurable outcome]
+-  Developed an AI classification feature on text-to-speech corpus for a live project “STRobotics App”
+- Build an AI based 3D game with Unity able to detect hand drawn numbers and integrated it with b-u585i-iot02a board for movement.
+
+**Media & Coverage Junior Working Team** — Randomize , Manipal University Jaipur<br>
+*November,2025 - April,2026*
+-  Supported media coordination and coverage of technical events.
+- Collaborated with teams on outreach and promotion of tech initiatives.
+
+**Team Lead** — Girls Technovation , Adobe<br>
+*2024*
+- Led a student team, overseeing ideation and solution development
+- Coordinated team efforts and delivered a structured project pitch in a global competitive setting.
 
 
 ---
 
 ### 📜 Certifications
 
-- [Certificate Name] — [Issuing Platform/Org], [Year] — [Link if available]
-- [Certificate Name] — [Issuing Platform/Org], [Year]
+- Machine Learning A-Z — Udemy, 2025 
+- C for Everyone — Coursera (University of California) , 2025
+- Amicable Personality– Higher secondary
+- Startup-(A)-Thone- E-Cell Manipal
+- Girls Technovation– Adobe
 
 ---
 
 ### 🎯 Interests
 
-Machine Learning · Data Analysis · [Competitive Programming / Open Source / Chess / Reading — whatever's genuinely you]
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
+Machine Learning · Data Analysis · Computer Vision · Drawing · Photography · Basketball 
 
 ---
 
