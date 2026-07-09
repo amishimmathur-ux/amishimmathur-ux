@@ -5,9 +5,6 @@
   <a href="https://www.linkedin.com/in/amishi-mathur-50ba80330/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="amishimmathur@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -18,7 +15,7 @@ I'm am an undergraduate engineering student with a strong interest in **Artifiti
 
 - 🎓 Currently pursuing: B.tech CSE , Manipal University Jaipur , 2nd Year
 - 🌱 Currently learning: Machine Learning , Python , C , Java , Assembly , C#
-
+- 📫 Reach me: [Gmail] amishimmathur@gmail.com
 ---
 
 ### 🛠️ Skills
