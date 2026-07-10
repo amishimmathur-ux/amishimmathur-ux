@@ -72,9 +72,6 @@ Machine Learning · Data Analysis · Computer Vision · Drawing · Photography �
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/thepiyushmalhotra/amishimmathur-uv/blob/output/github-contribution-grid-snake.svg)
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/amishimmathur-ux/amishimmathur-ux/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
