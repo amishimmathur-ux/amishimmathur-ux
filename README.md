@@ -71,4 +71,8 @@ Machine Learning · Data Analysis · Computer Vision · Drawing · Photography �
 
 ---
 
+![Snake animation](https://github.com/thepiyushmalhotra/amishimmathur-uv/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center"><i>Thanks for visiting — feel free to explore my repos or reach out!</i></p>
